@@ -1,2 +1,2 @@
-# NeuralNetwork
-This is my NeuralNetwork project for my independent study. It is coded from scratch in Java. The main class is the driver. 
+# Neural Network Folder
+This is folder contains multiple machine learning projects done in java and python. Earlier projects include a simple feed forward NN which can be found in its own folder. The most recent project are an image segmentation neural network and multiple image detection neural networks
